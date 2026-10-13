@@ -7,6 +7,11 @@
 
 > 이 저장소에는 설치파일만 있습니다. 소스 코드는 공개하지 않습니다.
 
+<p align="center">
+  <img src="assets/preview.gif" alt="SellBridge 미리보기 — 상품 등록 · 주문 자동 발주 · 매출 통계" width="960">
+  <br><sub>예시 데이터로 녹화한 화면입니다</sub>
+</p>
+
 ## 다운로드
 
 **[최신 버전 받기 → Releases](../../releases/latest)** 에서 `SellBridge_x.y.z_x64-setup.exe` 를 내려받으세요.
